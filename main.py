@@ -4,6 +4,7 @@ import json
 arsenal_0 = ["Oleksandr Zinchenko", "William Saliba", "Gabriel", "Ben White", "Declan Rice", "Thomas Partey", "Martin Odegaard", "Bukayo Saka", "Eddie Nketiah", "Gabriel Martinelli", "Gabriel Jesus"]
 liverpool_o = ["Trent Alexander-Arnold", "Virgil Van Dijk", "Joel Matip", "Andrew Robertson", "Dominik Szoboszlai", "Thiago", "Alexis Mac Allister", "Mo Salah", "Darwin Nunez", "Luis Diaz", "Diogo Jota"]
 manchester_city_o = ["Kyle Walker", "Nathan Ake", "Ruben Dias", "John Stones", "Bernardo Silva", "Kevin De Bruyne", "Rodri", "Erling Haaland", "Julian Alvarez", "Jeremy Doku", "Mateo Kovacic"]
+manchester_united_o = ["Luke Shaw", "Lisandro Martinez", "Raphael Varane", "Aaron Wan-Bissaka", "Bruno Fernandes", "Casemiro", "Christian Eriksen", "Rasmus Hojlund", "Antony", "Marcus Rashford", "Alejandro Garnacho"]
 teams = {"Liverpool":{"goalkeeper":"Allison", "outfielders": liverpool_o}, "Manchester City":{"goalkeeper":"Ederson", "outfielders": manchester_city_o}}
 
 class match_engine:
