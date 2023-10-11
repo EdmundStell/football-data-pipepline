@@ -64,6 +64,8 @@ class match_engine:
 me = match_engine("Liverpool", "Manchester City")
 match_data = me.generate_match_data()
 
-if __name__ == '__main__':
-    with open("match_data.json", "w") as json_file:
-        json.dump(match_data, json_file, indent=4)
+# if __name__ == '__main__':
+#     with open("match_data.json", "w") as json_file:
+#         json.dump(match_data, json_file, indent=4)
+
+print(match_data)

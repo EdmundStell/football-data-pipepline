@@ -66,6 +66,6 @@ jobs:
         run: |
           pip install flask
           sudo apt-get install -y gunicorn
-          gunicorn app:app -w 4 -b 0.0.0.0:$PORT
+          gunicorn app:app -w 1 -b 0.0.0.0:$PORT
         env:
           PORT: 8080
