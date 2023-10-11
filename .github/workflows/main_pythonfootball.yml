@@ -63,6 +63,8 @@ jobs:
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D6ED1B8DCCD44639C8210CEFE0631DA }}
 
       - name: Run Flask app with Gunicorn
-        run: gunicorn --config gunicorn_config.py app:app
+        run: |
+          sudo apt install gunicorn
+          gunicorn --config gunicorn_config.py app:app
         env:
           PORT: 80
