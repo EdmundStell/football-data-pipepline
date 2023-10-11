@@ -27,8 +27,8 @@ jobs:
           python -m venv venv
           source venv/bin/activate
       
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      # - name: Install dependencies
+      #   run: pip install -r requirements.txt
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       
@@ -64,7 +64,8 @@ jobs:
 
       - name: Run Flask app with Gunicorn
         run: |
-          sudo apt install gunicorn
+          pip install flask
+          sudo apt-get install -y gunicorn
           gunicorn app:app -w 4 -b 0.0.0.0:$PORT
         env:
           PORT: 8080
