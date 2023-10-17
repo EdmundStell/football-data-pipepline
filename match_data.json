@@ -1,0 +1,44 @@
+{
+    "Fixture": [
+        "Liverpool",
+        "Manchester City"
+    ],
+    "Result": [
+        0,
+        3
+    ],
+    "Lineups": {
+        "Home": [
+            "Allison",
+            "Trent Alexander-Arnold",
+            "Virgil Van Dijk",
+            "Joel Matip",
+            "Andrew Robertson",
+            "Dominik Szoboszlai",
+            "Thiago",
+            "Darwin Nunez",
+            "Luis Diaz",
+            "Diogo Jota"
+        ],
+        "Away": [
+            "Ederson",
+            "Kyle Walker",
+            "Ruben Dias",
+            "Bernardo Silva",
+            "Kevin De Bruyne",
+            "Rodri",
+            "Erling Haaland",
+            "Julian Alvarez",
+            "Jeremy Doku",
+            "Mateo Kovacic"
+        ]
+    },
+    "GoalScorers": {
+        "Liverpool": [],
+        "Manchester City": [
+            "Erling Haaland",
+            "Jeremy Doku",
+            "Kevin De Bruyne"
+        ]
+    }
+}

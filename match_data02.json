@@ -1,0 +1,480 @@
+{
+    "Match 1": {
+        "Fixture": [
+            "Arsenal",
+            "Wolverhampton Wanderers"
+        ],
+        "Result": [
+            2,
+            2
+        ],
+        "Lineups": {
+            "Home": [
+                "Aaron Ramsdale",
+                "Oleksandr Zinchenko",
+                "William Saliba",
+                "Ben White",
+                "Declan Rice",
+                "Thomas Partey",
+                "Martin Odegaard",
+                "Bukayo Saka",
+                "Eddie Nketiah",
+                "Gabriel Martinelli",
+                "Gabriel Jesus"
+            ],
+            "Away": [
+                "Jose Sa",
+                "Matt Doherty",
+                "Rayan Ait-Nouri",
+                "Max Dawson",
+                "Max Kilman",
+                "Joao Gomes",
+                "Boubacar Traore",
+                "Pedro Neto",
+                "Hee Chan Hwang",
+                "Matheus Cunha",
+                "Fabio Silva"
+            ]
+        },
+        "GoalScorers": {
+            "Arsenal": [
+                "Gabriel Jesus",
+                "Bukayo Saka"
+            ],
+            "Wolverhampton Wanderers": [
+                "Matheus Cunha",
+                "Joao Gomes"
+            ]
+        }
+    },
+    "Match 2": {
+        "Fixture": [
+            "Aston Villa",
+            "West Ham United"
+        ],
+        "Result": [
+            2,
+            0
+        ],
+        "Lineups": {
+            "Home": [
+                "Emi Martinez",
+                "Tyrone Mings",
+                "Matty Cash",
+                "Ezri Konsa",
+                "Carlos",
+                "Douglas Luiz",
+                "John McGinn",
+                "Ollie Watkins",
+                "Leon Bailey",
+                "Jacob Ramsey",
+                "Moussa Diaby"
+            ],
+            "Away": [
+                "Alphonse Areola",
+                "Aaron Cresswell",
+                "Kurt Zouma",
+                "Vladmir Coufal",
+                "Nayef Aguerd",
+                "James Ward-Prowse",
+                "Mohammed Kudus",
+                "Lucas Paqueta",
+                "Danny Ings",
+                "Jarrod Bowen",
+                "Said Benrahama"
+            ]
+        },
+        "GoalScorers": {
+            "Aston Villa": [
+                "Matty Cash",
+                "Leon Bailey"
+            ],
+            "West Ham United": []
+        }
+    },
+    "Match 3": {
+        "Fixture": [
+            "Bournemouth",
+            "Tottenham Hotspurs"
+        ],
+        "Result": [
+            3,
+            3
+        ],
+        "Lineups": {
+            "Home": [
+                "Neto",
+                "Adam Smith",
+                "Lloyd Kelly",
+                "Marcos Senesi",
+                "Lewis Cook",
+                "David Brooks",
+                "Tyler Adams",
+                "Dominic Solanke",
+                "Justin Kluivert",
+                "Antoine Semenyo",
+                "Kieffer Moore"
+            ],
+            "Away": [
+                "Guglielmo Vicario",
+                "Christian Romero",
+                "Pedro Porro",
+                "Ben Davies",
+                "Micky van de Ven",
+                "James Maddison",
+                "Rodrigo Bentancur",
+                "Heung-Min Son",
+                "Dejan Kulusevski",
+                "Richarlison",
+                "Brennan Johnson"
+            ]
+        },
+        "GoalScorers": {
+            "Bournemouth": [
+                "Dominic Solanke",
+                "Dominic Solanke",
+                "Lloyd Kelly"
+            ],
+            "Tottenham Hotspurs": [
+                "Brennan Johnson",
+                "Dejan Kulusevski",
+                "Pedro Porro"
+            ]
+        }
+    },
+    "Match 4": {
+        "Fixture": [
+            "Brentford",
+            "Sheffield United"
+        ],
+        "Result": [
+            4,
+            3
+        ],
+        "Lineups": {
+            "Home": [
+                "Mark Flekken",
+                "Rico Henry",
+                "Aaron Hickey",
+                "Ethan Pinnock",
+                "Ben Mee",
+                "Christian Norgaard",
+                "Mathias Jensen",
+                "Frank Onyeka",
+                "Ivan Toney",
+                "Neal Maupay",
+                "Yoane Wissa"
+            ],
+            "Away": [
+                "Adam Davies",
+                "George Baldock",
+                "Max Lowe",
+                "Chris Basham",
+                "John Fleck",
+                "Gustavo Hamer",
+                "Oliver Norwood",
+                "Rhian Brewster",
+                "Oliver McBurnie",
+                "Cameron Archer",
+                "Ismaila Coulibaly"
+            ]
+        },
+        "GoalScorers": {
+            "Brentford": [
+                "Yoane Wissa",
+                "Rico Henry",
+                "Rico Henry",
+                "Frank Onyeka"
+            ],
+            "Sheffield United": [
+                "George Baldock",
+                "John Fleck",
+                "Gustavo Hamer"
+            ]
+        }
+    },
+    "Match 5": {
+        "Fixture": [
+            "Brighton",
+            "Nottingham Forest"
+        ],
+        "Result": [
+            4,
+            2
+        ],
+        "Lineups": {
+            "Home": [
+                "Jason Steele",
+                "Tariq Lamptey",
+                "Lewis Dunk",
+                "Igor",
+                "Pervis Estupinan",
+                "Pascal Gross",
+                "Adam Lallana",
+                "Billy Gilmour",
+                "Karou Mitoma",
+                "Evan Ferguson",
+                "James Milner"
+            ],
+            "Away": [
+                "Matt Turner",
+                "Joe Worrall",
+                "Neco Williams",
+                "Willy Boly",
+                "Serge Aurier",
+                "Orel Mangala",
+                "Cheikou Kouyate",
+                "Morgan Gibbs-White",
+                "Taiwo Awoniyi",
+                "Callum Hudson-Odoi",
+                "Anthony Elanga"
+            ]
+        },
+        "GoalScorers": {
+            "Brighton": [
+                "Adam Lallana",
+                "Pervis Estupinan",
+                "Karou Mitoma",
+                "Igor"
+            ],
+            "Nottingham Forest": [
+                "Neco Williams",
+                "Morgan Gibbs-White"
+            ]
+        }
+    },
+    "Match 6": {
+        "Fixture": [
+            "Burnley",
+            "Newcastle United"
+        ],
+        "Result": [
+            2,
+            1
+        ],
+        "Lineups": {
+            "Home": [
+                "James Trafford",
+                "Charlie Taylor",
+                "Vitinho",
+                "Connor Roberts",
+                "Josh Brownhill",
+                "Aaron Ramsey",
+                "Sander Berge",
+                "Jay Rodriguez",
+                "Wout Weghorst",
+                "Nathan Redmond",
+                "Jack Cork"
+            ],
+            "Away": [
+                "Nick Pope",
+                "Kieran Trippier",
+                "Sven Botman",
+                "Dan Burn",
+                "Lewis Hall",
+                "Joelinton",
+                "Sandro Tonali",
+                "Miguel Almiron",
+                "Callum Wilson",
+                "Alexander Isak",
+                "Anthony Gordon"
+            ]
+        },
+        "GoalScorers": {
+            "Burnley": [
+                "Josh Brownhill",
+                "Sander Berge"
+            ],
+            "Newcastle United": [
+                "Callum Wilson"
+            ]
+        }
+    },
+    "Match 7": {
+        "Fixture": [
+            "Chelsea",
+            "Manchester United"
+        ],
+        "Result": [
+            1,
+            2
+        ],
+        "Lineups": {
+            "Home": [
+                "Robert Sanchez",
+                "Reece James",
+                "Ben Chilwell",
+                "Levi Colwill",
+                "Thiago Silva",
+                "Moises Caicedo",
+                "Cole Palmer",
+                "Raheem Sterling",
+                "Christopher Nkunku",
+                "Nicolas Jackson",
+                "Malo Gusto"
+            ],
+            "Away": [
+                "Andre Onana",
+                "Luke Shaw",
+                "Lisandro Martinez",
+                "Raphael Varane",
+                "Aaron Wan-Bissaka",
+                "Bruno Fernandes",
+                "Casemiro",
+                "Rasmus Hojlund",
+                "Antony",
+                "Marcus Rashford",
+                "Alejandro Garnacho"
+            ]
+        },
+        "GoalScorers": {
+            "Chelsea": [
+                "Christopher Nkunku"
+            ],
+            "Manchester United": [
+                "Casemiro",
+                "Lisandro Martinez"
+            ]
+        }
+    },
+    "Match 8": {
+        "Fixture": [
+            "Crystal Palace",
+            "Manchester City"
+        ],
+        "Result": [
+            1,
+            2
+        ],
+        "Lineups": {
+            "Home": [
+                "Sam Johnstone",
+                "Joel Ward",
+                "Tyrick Mitchell",
+                "Rob Holding",
+                "Marc Guehi",
+                "Will Hughes",
+                "Micheal Olise",
+                "Jefferson Lerma",
+                "Eberechi Eze",
+                "Jordan Ayew",
+                "Jeffrey Schlupp"
+            ],
+            "Away": [
+                "Ederson",
+                "Kyle Walker",
+                "Nathan Ake",
+                "Ruben Dias",
+                "John Stones",
+                "Bernardo Silva",
+                "Kevin De Bruyne",
+                "Rodri",
+                "Erling Haaland",
+                "Julian Alvarez",
+                "Mateo Kovacic"
+            ]
+        },
+        "GoalScorers": {
+            "Crystal Palace": [
+                "Jeffrey Schlupp"
+            ],
+            "Manchester City": [
+                "Mateo Kovacic",
+                "Ruben Dias"
+            ]
+        }
+    },
+    "Match 9": {
+        "Fixture": [
+            "Everton",
+            "Luton"
+        ],
+        "Result": [
+            3,
+            0
+        ],
+        "Lineups": {
+            "Home": [
+                "Jordan Pickford",
+                "Ashley Young",
+                "Michael Keane",
+                "Vitali Mykolenko",
+                "Amadou Onana",
+                "Abdoulaye Doucoure",
+                "James Garner",
+                "Dwight McNeil",
+                "Beto",
+                "Dominic Calvert-Lewin",
+                "Youssef Chermiti"
+            ],
+            "Away": [
+                "Tim Krul",
+                "Tom Lockyer",
+                "Dan Potts",
+                "Teden Mengi",
+                "Mads Andersen",
+                "Ross Barkley",
+                "Marvelous Nakamba",
+                "Tahith Chong",
+                "Jacob Brown",
+                "Elijah Adebayo",
+                "Cauley Woodrow"
+            ]
+        },
+        "GoalScorers": {
+            "Everton": [
+                "Vitali Mykolenko",
+                "James Garner",
+                "Michael Keane"
+            ],
+            "Luton": []
+        }
+    },
+    "Match 10": {
+        "Fixture": [
+            "Fulham",
+            "Liverpool"
+        ],
+        "Result": [
+            1,
+            2
+        ],
+        "Lineups": {
+            "Home": [
+                "Bernd Leno",
+                "Timothy Castagne",
+                "Kenny Tete",
+                "Calvin Bassey",
+                "Issa Diop",
+                "Harrison Reed",
+                "Tom Cairney",
+                "Joao Palinha",
+                "Raul Jimenez",
+                "Harry Wilson",
+                "Adama Traore"
+            ],
+            "Away": [
+                "Allison",
+                "Trent Alexander-Arnold",
+                "Virgil Van Dijk",
+                "Joel Matip",
+                "Andrew Robertson",
+                "Dominik Szoboszlai",
+                "Thiago",
+                "Alexis Mac Allister",
+                "Darwin Nunez",
+                "Luis Diaz",
+                "Diogo Jota"
+            ]
+        },
+        "GoalScorers": {
+            "Fulham": [
+                "Calvin Bassey"
+            ],
+            "Liverpool": [
+                "Darwin Nunez",
+                "Alexis Mac Allister"
+            ]
+        }
+    }
+}
